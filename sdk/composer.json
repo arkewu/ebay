@@ -1,0 +1,18 @@
+{
+    "name": "arkewu/ebay",
+    "description": "eBay Api SDK",
+    "authors": [
+        {
+            "name": "Arke Wu"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Arkewu\\Ebay\\": "src/"
+        }
+    }
+}
